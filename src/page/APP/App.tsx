@@ -27,6 +27,7 @@ function App() {
             <Content className="site-layout">
                 <div className="site-layout-background">Content</div>
                 <div>lalala</div>
+                <div>hahaha</div>
             </Content>
             <Footer style={{ textAlign: "center" }}></Footer>
         </Layout>
